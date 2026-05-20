@@ -51,6 +51,9 @@ Linear Regression is used because the task is a regression problem, where the go
 - Joblib
 - Jupyter Notebook / Google Colab
 
+  ## Dataset source:
+  Hugging Face
+
 ## Example Prediction
 
 The model can predict the price of a house based on input values such as:
